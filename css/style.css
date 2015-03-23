@@ -1,0 +1,52 @@
+/* This is a CSS comment */
+body {
+	padding: 20px 10px;
+	font-family: Calibri;
+	max-width: 2000px;
+	margin: 0 auto; /* The 0 refers to the top and bottom margins and the "auto" automatically */
+	font-size: 1.4em;
+}                 /* sets the left and right margins to equal values. This centers the body on the page.*/
+
+h1 {
+	text-align: center;
+	color: black;
+}
+
+p {
+	margin: 10px 0;
+}
+
+h2 {
+	text-align: center;
+	color: black;
+  font-size: 35px;
+}
+
+.concept {
+	background-color: tan;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.-title {
+	font-size: 40px;
+	margin: 8px;
+	text-align: center;
+	color: Black;
+}
+
+.concept-description {
+	font-weight: normal;
+	margin: 6px;
+  background-color: white;
+}
+
+h3 {
+	text-align: center;
+	color: black;
+  font-size: 40px;
+  background-color: Orange;
+}
+
